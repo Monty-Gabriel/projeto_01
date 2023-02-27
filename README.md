@@ -12,10 +12,3 @@ A máquina tem 1gb de RAM e 1 CPU.
 <h3>
 </div>
 
-<div align="center">
-<h2>Posível Erro!<h2>
-</div>
-
-<div align="left">
-<h5>Utilizando el SO de ArchLinux como host, ao momento de subir a máquina, monstra o error de locale UTF, coloquem o seguinte comando: ~export LC_ALL="en_US.UTF-8"~ e tente de novo<h5>
-</div>
